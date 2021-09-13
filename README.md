@@ -2,7 +2,10 @@
 
 This project is created following [React tutorial by Bob Ziroll on Scrimba](https://scrimba.com/learn/learnreact). 
 
-👁‍🗨 For live preview please [click here](https://adiati98.github.io/react-todo-app/) 
+Feature in this app is only to check & uncheck todo list.
+
+<br>
+👁‍🗨 For live preview: https://adiati98.github.io/react-todo-app/. 
 
 ---
 
