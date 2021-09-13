@@ -1,3 +1,9 @@
+# Simple Todo List App
+
+This project is created following [React tutorial by Bob Ziroll on Scrimba](https://scrimba.com/learn/learnreact). 
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
